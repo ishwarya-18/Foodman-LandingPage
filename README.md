@@ -15,7 +15,7 @@ This project is a Food Landing Page developed as part of my Codsoft internship. 
 - Sign-up and sign-in buttons for user access 🔑
 
 ## Screenshot
-![Uploading foodman.png…]()
+![foodman](https://github.com/user-attachments/assets/ae6c95a5-57e8-4169-90ea-522b02b22f37)
 
 
 ## License
