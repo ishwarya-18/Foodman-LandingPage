@@ -19,7 +19,7 @@ This project is a Food Landing Page developed as part of my Codsoft internship. 
 
 
 ## License
-This project is not licensed. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 For any inquiries, please reach out to me at [ishwaryarajendran77@gmail.com] 📧.
